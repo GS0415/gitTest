@@ -7,5 +7,6 @@ package com.example.git;
 public class NewBranch_Test {
     public static void main(String[] args) {
         System.out.println("新分支测试");
+        System.out.println("111");
     }
 }
